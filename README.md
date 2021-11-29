@@ -43,3 +43,4 @@ sno|Name
 ### git status
 ### git add .===>to add file in untrack to tracked
 ### git commit -m "intial commit"==>to save the changes
+### git rocket ==>to check whether remote between local system and github.
