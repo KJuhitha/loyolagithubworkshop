@@ -14,3 +14,8 @@
 ![taj](https://c.ndtvimg.com/2021-08/aa8qno6_taj-mahal-night-photo-istock_625x300_20_August_21.jpg)
 
 ![temple](https://i.pinimg.com/originals/75/26/8c/75268c626f5b8e83475da8b55dc78e8e.jpg)
+
+* Fruits
+    * Apple
+    * Grapes
+    * Mango
