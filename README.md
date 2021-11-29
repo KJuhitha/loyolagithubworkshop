@@ -24,3 +24,10 @@
       1. Bringal
       2. Tomatoes
       3. Potato
+
+sno|Name
+---|----
+1|Juhitha
+2|Sathvika
+3|Meghana
+4|Sakitha
