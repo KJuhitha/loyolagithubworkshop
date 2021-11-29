@@ -31,3 +31,12 @@ sno|Name
 2|Sathvika
 3|Meghana
 4|Sakitha
+
+# git config --global user.name"Juhitha"
+# git config user.name
+# git config --global user.name"Juhitha"
+# git config user.email
+#create a folder by using"mkdir"
+# git init -->Initialized empty Git repository in C:/Users/Student.user74-PC/Desktop/githud/.git/
+# create a file by "touch"
+# to set new path using"cd"
