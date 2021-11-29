@@ -40,3 +40,6 @@ sno|Name
 ### git init -->Initialized empty Git repository in C:/Users/Student.user74-PC/Desktop/githud/.git/
 ### create a file by "touch"
 ### to set new path using"cd"
+### git status
+### git add .===>to add file in untrack to tracked
+### git commit -m "intial commit"==>to save the changes
